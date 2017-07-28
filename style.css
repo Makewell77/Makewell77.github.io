@@ -1,1 +1,23 @@
+*
+{
+  margin;0
+  padding;0
+  
+}
 
+body
+{
+  font-family:helvetica;
+ }
+
+.hero 
+{
+  position: absolute;
+  width:1140 px;
+  top: 50%;
+  left: 50%
+  transform: translate:(50%,-50%);
+  
+  
+
+}

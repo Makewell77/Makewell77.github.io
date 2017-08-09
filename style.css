@@ -9,18 +9,18 @@ h1 {
   font-size: 575%;
   color: #4A4444;
   text-transform: uppercase;
-  letter-spacing: 3%;
+  letter-spacing: 1%;
   margin: 45% 0;
 }
 h2 {
   text-align: center;
   font-size: 275%;
-  background-color: #E5E5E5
+  background-color: #E5E5E5;
   letter-spacing: 1%;
   
 }
   */--- Start parallax ---*/
 .parallax {
-   background: url("
+   background: url("http://www.w3newbie.com/wp-content/uploads/parallax-2.jpg");
 }
 */--- End parallax ---*/
